@@ -4,6 +4,8 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 
 [Invite Me](https://discord.com/oauth2/authorize?client_id=753605471650316379&permissions=2147483639&scope=bot) | [Join Server](https://discord.gg/tgPtCMVZuu) | [Website](https://www.sypherbot.in/)
 
+[![DiscordBanner](https://invidget.switchblade.xyz/tgPtCMVZuu)](https://discord.gg/tgPtCMVZuu)
+
 ## Commands
 
 ### General:
