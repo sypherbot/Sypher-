@@ -88,7 +88,7 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 | Roast	| To insult someone	| ;roast [user]	| ;roast @BP | nil
 | Chat	| To interact with me	| ;chat [text]	| ;chat hey how are you	| ;s & ;speak
 
-## Audio:
+### Audio:
 
 **Music,Radio you name it**
 
@@ -114,3 +114,76 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 | Lyrics	| To get the lyrics of any song	| ;lyrics [song name]	| ;lyrics closer	| nil
 | Nowplaying	| To know the song thats currently playing	| ;now	| ;now	| ;np
 
+## Privacy Policy:
+
+◘ **Terminology**
+
+Server Administrator
+
+‣ Any user who has the permission, ability or access to add or configure Sypher to a server.
+
+Server Member
+
+‣ Any user who is a member of a server in which Sypher is present on.
+
+◘ **Data Collected By Command**
+
+The following may be collected via user run command, and may be entered by the user, voluntarily. This data is not collected automatically. When providing data in this way, you forego any rights to the content of the data provided.
+
+.Server configurations (region, name, id)
+
+.Server ownership
+
+.List of server's members
+
+.List of server's roles
+
+.Server status
+
+◘ **Data Collected When Features Are Enabled**
+
+The following will be collected automatically when a server administrator configures the bot to perform checks for news or another automated feature within Sypher. These features are not enabled automatically, and therefore the following will not be collected automatically unless the corresponding feature is enabled by the server administrator.
+
+.Server configurations (channel names, channel ids)
+
+.Server messages (for profanity)
+
+.List of server's roles
+
+.List of server's members
+
+◘ **Data Collected Automatically**
+
+The following is collected automatically when Sypher joins a server. This data is used to provide statistics or server information.
+
+.Server configurations (region, name, id, creation date, large status)
+
+.Server ownership
+
+.Server member count
+
+.Server role count
+
+.Server channel count
+
+.Server availability
+
+.List of server's roles
+
+
+Maximum efforts are taken to keep collected data, as defined above, protected, but absolute security cannot be guaranteed. We are not liable for any damages or stolen information, in which we collect, from our servers.
+ 
+
+**Server Member Agreement :**
+
+By being a member of a server which uses Syphers' services or features, you are consenting to the policies outlined in this agreement. If you, the server member, do not agree with any policies outlined in this agreement, you have the right to leave the server in which this bot is a part of.
+
+**Server Administrator Agreement :**
+
+By adding Sypher to your server, you are consenting to the policies outlined in this agreement. If you, the server administrator, do not agree with any of the policies outlined in this agreement, you have the right to remove Sypher from your server.
+
+For more information contact us at [contact@sypherbot.in]
+
+Or feel free to join our server by [clicking here](https://discord.gg/CWZMpFF)
+
+**Note: The terms of service are subject to change at any point of time with/without prior notice.**
