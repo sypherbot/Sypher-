@@ -52,3 +52,28 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 | Lock	| To lock a particular channel	| ;lock	| ;lock	| nil
 | Unlock	| To unlock a particular channel	| ;unlock	| ;unlock	| nil
 
+### Fun: 
+
+| Name | Description | Usage | Example | Aliases 
+|----|----|----|----|----|
+| Au	| Help you play among us with friends	| ;au	| ;au	| ;amongus
+| 8ball	| Replies to random yes/no questions	| ;8ball [question]	| ;8ball Is Sypher the best	| ;will
+| Rps	| To play Rock-Paper-Scissors with the bot	| ;rps [choice]	| ;rps rock	| nil
+| Toss	| To toss a coin	| ;toss[number of coins]	| ;toss 3	| nil
+| Roll	| To roll a die	| ;roll[number of dice]	| ;roll 3	| nil
+| Meme	| To get random memes	| ;meme	| ;meme	| nil
+| Applause	| To applaud someone	| ;applause	| ;applause	| ;clap
+| award	To award a member	;award	;award	;prize
+| Img	| To search for an image	| ;img [search query]	| ;img dog	| nil
+| Youtube	| To search Youtube for videos	| ;youtube [search query]	| ;youtube discord	| ;yt
+| Poll	| To conduct a poll	| ;poll [argument]	| ;poll Is Sypher the best	| nil
+| Riddle	| To get riddles	| ;riddle	| ;riddle	| nil
+| Hangman	| To play hangman	| ;hangman	| ;hangman	| nil
+| Joke	| To entertain you with jokes	| ;joke	| ;joke	| nil
+| Urban	| To draw definitions from urbandictionary	| ;urban [word]	| ;urban apple	| nil
+| Textmojify	| To replace text with emojis	| ;textmojify [text]	| ;textmojify hello	| ;tem
+| Emoji	| To get the image of an emoji or to search for emojis	| ;emoji [emoji or emoji name]	| ;emoji 😁	| nil
+| Ttt	| To play tic tac toe	| ;ttt	| ;ttt	| ;tictactoe
+| Mines	| To play minesweeper	| ;mines [columns] [rows] [bombs]	| ;mines 3 3 1	| ;minesweeper
+| Roast	| To insult someone	| ;roast [user]	| ;roast @BP | nil
+| Chat	| To interact with me	| ;chat [text]	| ;chat hey how are you	| ;s & ;speak
