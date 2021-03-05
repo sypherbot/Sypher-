@@ -77,7 +77,7 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 | Roll	| To roll a die	| ;roll[number of dice]	| ;roll 3	| nil
 | Meme	| To get random memes	| ;meme	| ;meme	| nil
 | Applause	| To applaud someone	| ;applause	| ;applause	| ;clap
-| Award	To award a member | ;award | ;award | ;prize
+| Award | To award a member | ;award | ;award | ;prize
 | Img	| To search for an image	| ;img [search query]	| ;img dog	| nil
 | Youtube	| To search Youtube for videos	| ;youtube [search query]	| ;youtube discord	| ;yt
 | Poll	| To conduct a poll	| ;poll [argument]	| ;poll Is Sypher the best	| nil
