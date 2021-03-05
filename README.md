@@ -77,3 +77,26 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 | Mines	| To play minesweeper	| ;mines [columns] [rows] [bombs]	| ;mines 3 3 1	| ;minesweeper
 | Roast	| To insult someone	| ;roast [user]	| ;roast @BP | nil
 | Chat	| To interact with me	| ;chat [text]	| ;chat hey how are you	| ;s & ;speak
+
+## Music:
+
+| Name | Description | Usage | Example | Aliases 
+|----|----|----|----|----|
+| Join	| When in a voice channel use this to have the bot join said voice channel	| ;join	| ;join	| ;j & ;connect
+| Leave	| When you want the bot to leave the voice channel	| ;leave	| ;leave | ;l & ;dc & ;disconnect
+| Play	| To play music from Youtube	| ;play [music]	| ;play closer	| ;p
+| Radio1	| To live stream Radio Mango	| ;radio1	| ;radio1	| nil
+| Radio2	| To live stream Club FM	| ;radio2	| ;radio2	| nil
+| Radio3	| To live stream Kiis FM	| ;radio3	| ;radio3	| nil
+| Radio4	| To live stream Radio Disney	| ;radio4	| ;radio4	| nil
+| Radio5	| To live stream Radio Paradise	| ;radio5	| ;radio5	| nil
+| Pause	| This will pause the playing audio	| ;pause	| ;pause	| nil
+| Resume	| This will resume paused audio	| ;resume	| ;resume	| nil
+| Stop	| This stops audio and clears the queue	| ;stop	| ;stop	| nil
+| Queue	| This displays the queue of songs	| ;queue	| ;queue	| ;q
+| Next	| To play the next song in queue	| ;next	| ;next	| ;skip
+| Clear	| This clears the queue	| ;clear	| ;clear	| nil
+| Remove	| To remove a song from queue	| ;remove [song position]	| ;remove 2	| nil
+| Lyrics	| To get the lyrics of any song	| ;lyrics [song name]	| ;lyrics closer	| nil
+| Nowplaying	| To know the song thats currently playing	| ;now	| ;now	| ;np
+
