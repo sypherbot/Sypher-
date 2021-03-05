@@ -6,6 +6,8 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 
 ### General:
 
+**All kinds of random commands which keeps you occupied**
+
 | Name | Description | Usage | Example | Aliases
 |----|----|----|----|----|
 | Prefix | To change the server prefix | ;prefix [new prefix]	| ;prefix $ |	nil
@@ -33,6 +35,10 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 
 ### Moderation:
 
+**Don't worry.I'll take care of your server when you are not around**
+
+**With all the features to moderate your server**
+
 | Name | Description | Usage | Example | Aliases
 |----|----|----|----|----|
 | Clean	| To delete previous messages	| ;clean [limit]	| ;clean 2	| ;del
@@ -53,6 +59,10 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 | Unlock	| To unlock a particular channel	| ;unlock	| ;unlock	| nil
 
 ### Fun: 
+
+**Trust me when i say i am a fun guy**
+
+**I come with all kinds of tricks to entertain you**
 
 | Name | Description | Usage | Example | Aliases 
 |----|----|----|----|----|
@@ -78,7 +88,11 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 | Roast	| To insult someone	| ;roast [user]	| ;roast @BP | nil
 | Chat	| To interact with me	| ;chat [text]	| ;chat hey how are you	| ;s & ;speak
 
-## Music:
+## Audio:
+
+**Music,Radio you name it**
+
+**With all the commands to ensure a smooth streaming experience**
 
 | Name | Description | Usage | Example | Aliases 
 |----|----|----|----|----|
