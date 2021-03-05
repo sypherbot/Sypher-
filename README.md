@@ -40,7 +40,6 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 ### Moderation:
 
 **Don't worry.I'll take care of your server when you are not around**
-
 **With all the features to moderate your server**
 
 | Name | Description | Usage | Example | Aliases
