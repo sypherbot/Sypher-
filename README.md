@@ -89,8 +89,8 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 | Emoji	| To get the image of an emoji or to search for emojis	| `;emoji [emoji or emoji name]`	| ;emoji 😁	| nil
 | Ttt	| To play tic tac toe	| `;ttt`	| ;ttt	| ;tictactoe
 | Mines	| To play minesweeper	| `;mines [columns] [rows] [bombs]`	| ;mines 3 3 1	| ;minesweeper
-| Roast	| To insult someone	| ;roast [user]	| ;roast @BP | nil
-| Chat	| To interact with me	| ;chat [text]	| ;chat hey how are you	| ;s & ;speak
+| Roast	| To insult someone	| `;roast [user]`	| ;roast @BP | nil
+| Chat	| To interact with me	| `;chat [text]`	| ;chat hey how are you	| ;s & ;speak
 
 ### Audio:
 
