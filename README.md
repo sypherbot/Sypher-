@@ -12,7 +12,7 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 
 **All kinds of random commands which keeps you occupied**
 
-| **Name | Description | Usage | Example | Aliases**
+| **Name** | **Description** | **Usage** | **Example** | **Aliases**
 |----|----|----|----|----|
 | Prefix | To change the server prefix | `;prefix [new prefix]`	| ;prefix $ |	nil
 | Profanity | To enable profanity check in a server | `;profanity [enable/disable]`	| ;profanity enable |	nil
