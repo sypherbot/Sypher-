@@ -32,10 +32,10 @@ Hi fellas....I am a Multi-Purpose Discord Bot with all kinds of features.Take me
 | News	| To know what's happening around you	| `;news`	| ;news	| nil
 | Wiki	| To get info from wikipedia	| `;wiki [query]`	| ;wiki discord	| nil
 | Calculate	| To help you with maths	| `;calculate [expression]`	| ;calculate 1+2-3	| ;calc
-| Invite	| To add Sypher to your server	| ;invite	| ;invite	| nil
-| Suggest	| To let us know your suggestions.Your suggestion will be recorded at our server	| ;suggest [suggestion]	| ;suggest more games	| nil
-| Say	| To make the bot embed a message for you	| ;say [title] [description]	| ;say Sypher The best bot	| nil
-| Botinfo	| To get Sypher's Stats	| ;botinfo	| ;botinfo	| ;bot
+| Invite	| To add Sypher to your server	| `;invite`	| ;invite	| nil
+| Suggest	| To let us know your suggestions.Your suggestion will be recorded at our server	| `;suggest [suggestion]`	| ;suggest more games	| nil
+| Say	| To make the bot embed a message for you	| `;say [title] [description]`	| ;say Sypher The best bot	| nil
+| Botinfo	| To get Sypher's Stats	| `;botinfo`	| ;botinfo	| ;bot
 
 ### Moderation:
 
